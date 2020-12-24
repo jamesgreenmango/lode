@@ -1,0 +1,6 @@
+{
+    "BaseURL": "https://sport.xwin.info",
+    "LoDeURL": "https://xs-api.vergo.dev",
+    "LoDeURLStaging": "https://xs-api.vergo.dev",
+    "LoDeUrlWS": "wss://api-mini.gowsazhjo.tv/websocket"
+}
