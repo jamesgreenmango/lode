@@ -1,7 +1,7 @@
 {
     "BaseURL": "https://sport.xwin.info",
-    "LoDeURL": "https://api-rng.vergo.dev",
-    "LoDeURLStaging": "https://api-rng.vergo.dev",
+    "LoDeURL": "https://rng-api.vergo.dev",
+    "LoDeURLStaging": "https://rng-api.vergo.dev",
     "LoDeUrlWS": "wss://wssport.xwin.info/websocket",
     "RefreshTokenURL": "https://api.xwin.info/id?command=refreshToken&refreshToken="
 }
